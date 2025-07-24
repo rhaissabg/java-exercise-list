@@ -8,7 +8,7 @@ public class MultiplicationTableGenerator {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Enter number to generate it's table: ");
+		System.out.print("Enter number to generate its table: ");
 		int number = sc.nextInt();
 		
 		System.out.print("Enter the start number: ");
